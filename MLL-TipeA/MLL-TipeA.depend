@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1702983717 source:d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\list_parent.cpp
+	"list_parent.h"
+
+1702984536 source:d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\main.cpp
+	<iostream>
+	"list_child.h"
+	"list_parent.h"
+
+1702983717 source:d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\list_child.cpp
+	"list_child.h"
+
+1702983717 d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\list_child.h
+	<iostream>
+
+1702984145 source:d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\list_relasi.cpp
+	"list_relasi.h"
+
+1702978671 d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\list_relasi.h
+	"list_relasi.h"
+	"list_child.h"
+	<iostream>
+
+1702983991 d:\00_personal\telkom_university\semester 3\03_struktur data (fsv)\04_code\tubes\mll-tipea\mll-tipea\list_parent.h
+	<iostream>
+	"list_relasi.h"
+
